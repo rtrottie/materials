@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Database/.idea/Database.iml" filepath="$PROJECT_DIR$/../Database/.idea/Database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HDiffusion/.idea/HDiffusion.iml" filepath="$PROJECT_DIR$/../HDiffusion/.idea/HDiffusion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HercyniteDiffusion/.idea/Hercynite Diffusion.iml" filepath="$PROJECT_DIR$/../HercyniteDiffusion/.idea/Hercynite Diffusion.iml" />
+      <module fileurl="file://D:/Users/RyanTrottier/PycharmProjects/VASP-Templates/.idea/VASP-Templates.iml" filepath="D:/Users/RyanTrottier/PycharmProjects/VASP-Templates/.idea/VASP-Templates.iml" />
+      <module fileurl="file://D:/Users/RyanTrottier/PycharmProjects/VTST-Tools/.idea/VTST-Tools.iml" filepath="D:/Users/RyanTrottier/PycharmProjects/VTST-Tools/.idea/VTST-Tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chain/.idea/chain.iml" filepath="$PROJECT_DIR$/../chain/.idea/chain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/materials.iml" filepath="$PROJECT_DIR$/.idea/materials.iml" />
+    </modules>
+  </component>
+</project>
